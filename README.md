@@ -1,18 +1,18 @@
 # FPGA-Acceleration
 Estudos sobre aceleração de códigos com FPGA
 
-## Temaas de interesse
+### Temas de interesse
 
 - Execução de redes neurais
 - Treinamento de redes neurais
 - Virtualização/ Cloud
 - Aceleração de algorítimos 
 
-## Histórico
+### Histórico
 
 - 2018-2019 Iniciação Tecnológica Raphael Costa
 
-## Placas Insper
+### Placas Insper - Arq. de Computadores
 
 - [DE5a-NET-DDR4](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=158&No=526&PartNo=1)
 - [Arria 10 SoC](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=216&No=997)
