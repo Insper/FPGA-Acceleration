@@ -12,12 +12,17 @@ Estudos sobre aceleração de códigos com FPGA
 
 - 2018-2019 Iniciação Tecnológica Raphael Costa
 
-### Placas Insper - Arq. de Computadores
+### Kits desenvolvimento -  Insper - Arq. de Computadores
 
-- [DE5a-NET-DDR4](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=158&No=526&PartNo=1)
-- [Arria 10 SoC](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=216&No=997)
-
-Em processo de compra
-
-- [Intel® Programmable Acceleration Card with Intel Arria® 10 GX FPGA](https://www.intel.com/content/www/us/en/programmable/products/boards_and_kits/dev-kits/altera/acceleration-card-arria-10-gx/overview.html)
+| Kit           | Empresa | Tecnologia | vhdl | HLS | OpenCL | Linux | OpenCV | Cuda |
+|---------------|---------|------------|------------|-----|--------|-------|--------|------|
+| [Arria 10 SoC](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=216&No=997) | Intel   | FPGA + ARM | x          | x   | x      | x     | x      |      |
+| [DE10-Standard](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=1081) | Intel   | FPGA + ARM | x          | x   | x      | x     | x      |      |
+| [DE10-nano-soc](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=941)     | Intel   | FPGA + ARM | x          | x   | x      | x     | x      |      |
+| [Terasic SoC SoM](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=167&No=1211)   | Intel   | FPGA + ARM | x          | x   | x      | x     | x      |      |
+| [DE5a-NET-DDR4](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=1&No=1108&PartNo=1) | Intel   | FPGA       | x          | x   | x      |       | x      |      |
+| [ZedBoard](http://zedboard.org/product/zedboard)      | Xilinx  | FPGA + ARM | x          | x   | x      | x     | x      |      |
+| [instância F1](https://aws.amazon.com/ec2/instance-types/f1/)  | AWS     | FPGA       |            |     | x      |       |        |      |
+| [Jetson TK2](https://developer.nvidia.com/embedded/jetson-tx2)   | NVIDIa  | ARM + GPU  |            |     |        | x     | x      | x    |
+|               |         |            |            |     |        |       |        |      |
 
